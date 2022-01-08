@@ -1,0 +1,17 @@
+p {
+    color: blue;
+}
+h1 {
+    background-color: lightblue;
+}
+h2 {
+    background-color: darkcyan;
+
+}
+h3 {
+
+    background: lawngreen;
+}
+h1  + h3 {
+    color: maroon;
+}
